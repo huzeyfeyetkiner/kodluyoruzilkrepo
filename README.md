@@ -11,7 +11,7 @@ Bu repo [Kodluyoruz](tpps://kodluyoruz.org) Front-End Eğitiminde oluşturduğum
 
 # Usage
 
-Proheyi cloneladıktan sonra Visual Studio Code Programında açınız
+Projeyi cloneladıktan sonra Visual Studio Code Programında açınız
 
 linux için:
 
